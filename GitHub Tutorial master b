@@ -8,6 +8,7 @@ Repository "Repo" - means project
 Commit - means save changes that you made to one of the BRANCHEs (explanation below)
 Hash number of Commit - every commit has a indiwidual number generated for it.
 Branch - way of creating a diffrent version that forks off the MASTER BRANCH like on a tree
-Pull request - is a request to bring changes from a side branch to a master branch.
-Push - 
+Pull request - is a request to bring changes from a side branch or a fork of a repository to a master branch.
+Push - it is a request to push changes from a side branch to a master branch. 
 Merge - is merging 2 diferent branches into one from that point onward
+Fork - is a "copy" of the repository on another user account where it can be worked on independently from the original repository.
