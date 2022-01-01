@@ -1,0 +1,9 @@
+Git vs Github
+git is vesrion contorl software
+Github is a website using git as and has its own interface.
+Github or Git can be used to manage projects called REPOSITORY "Repo" 
+Non programers can use G and GH. 
+Usefull and esential terms around GIT
+Repository "Repo" - means project
+Commit - means save changes that you made to one of the BRANCHEs (explanation below)
+Branch - way of creating a diffrent version that forks off the MASTER BRANCH like on a tree
